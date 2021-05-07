@@ -8,4 +8,4 @@ Most of my projects sources are private though.
 uhh, idk what else to put here :>
 I have a **[Discord server](https://discord.gg/R862SFQ "Discord server")** if you wanna join that aswell
 
-:tw-1f338: https://owowhatsthis.xyz/
+🌸 https://owowhatsthis.xyz/
