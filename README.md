@@ -13,5 +13,9 @@ I have a **[Discord server](https://discord.gg/R862SFQ "Discord server")** if yo
 
 I have a website aswell sooooo-
 🌸 https://owowhatsthis.xyz/
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-iners)](https://github.com/anuraghazra/github-readme-stats)
+
 [![OwO](https://owowhatsthis.xyz/i/Furry/Commissioned/twitter.png "OwO")](https://owowhatsthis.xyz/i/Furry/Commissioned/twitter.png "OwO")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-iners)](https://github.com/anuraghazra/github-readme-stats)
+[![Rai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ra-iners)](https://github.com/anuraghazra/github-readme-stats)
+
