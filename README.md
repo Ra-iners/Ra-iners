@@ -16,6 +16,6 @@ I have a website aswell sooooo-
 
 [![OwO](https://owowhatsthis.xyz/i/Furry/Commissioned/twitter.png "OwO")](https://owowhatsthis.xyz/i/Furry/Commissioned/twitter.png "OwO")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-iners)](https://github.com/anuraghazra/github-readme-stats)
-[![Rai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ra-iners)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-iners&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ra-iners&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
