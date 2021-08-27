@@ -14,7 +14,7 @@ I have a **[Discord server](https://discord.gg/R862SFQ "Discord server")** if yo
 I have a website aswell sooooo-
 🌸 https://owowhatsthis.xyz/
 
-[![OwO](https://cdn.owowhatsthis.xyz/Artwork/Commissioned/Turbkey/twitter.png "OwO")](https://owowhatsthis.xyz/i/Furry/Commissioned/twitter.png "OwO")
+[![OwO](https://owowhatsthis.xyz/gallery_gen/93c13a804aedce116de2ccc4127307a4.png "OwO")](https://owowhatsthis.xyz/i/Furry/Commissioned/twitter.png "OwO")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-iners&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Rai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ra-iners&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
