@@ -12,7 +12,7 @@ I have a **[Discord server](https://discord.gg/R862SFQ "Discord server")** if yo
 
 
 I have a website aswell sooooo-
-🌸 https://owowhatsthis.xyz/
+🌸 https://protogen.lol/
 
 [![OwO](https://owowhatsthis.xyz/gallery_gen/93c13a804aedce116de2ccc4127307a4.png "OwO")](https://owowhatsthis.xyz/gallery_gen/93c13a804aedce116de2ccc4127307a4.png "OwO")
 
