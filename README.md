@@ -2,7 +2,7 @@ Heya! 👋
 
 I do C# & make Discord bots in that yes yes
 
-My most notible bot being **[Proto](https://top.gg/bot/724601984241369100 "Proto")** which at the time of writing is in about 400 servers.
+My most notible bot being **[Proto](https://top.gg/bot/724601984241369100 "Proto")** which at the time of writing is in about 700 servers.
 
 Most of my projects sources are private though.
 
